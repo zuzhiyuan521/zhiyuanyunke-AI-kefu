@@ -62,9 +62,10 @@
 [对话前端页面](http://598.zhiyuantongxin.com)
 [基础版管理后台](http://598.zhiyuantongxin.com/admin/login.php)
 [标准版管理后台](http://998.zhiyuantongxin.com/admin/login.php)
+[旗舰版管理后台](http://1599.zhiyuantongxin.com/admin/login.php)
 
 账号：ceshi
-密码：测试123
+密码：ceshi123
 
 用户只需描述需求（如"北京流量卡推荐"），AI 即可从知识库中匹配合适的套餐产品，并提供办理链接。
 
