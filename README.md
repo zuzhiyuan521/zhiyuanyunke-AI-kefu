@@ -23,10 +23,10 @@
 
 ## 🌟 界面展示
 
-|  智远云客 前台         |   后台管理             |
+|  智远云客 后台         |   后台管理             |
 | ------------------------------------------ | ------------------------------------------ |
-| <img src="images/1.jpg" width=370 /> | <img src="images/2.jpg" width=370 /> |
-| <img src="images/3.jpg" width=370 /> | <img src="images/4.jpg" width=370 /> |
+| <img src="images/1.png" width=370 /> | <img src="images/2.png" width=370 /> |
+| <img src="images/3.png" width=370 /> | <img src="images/4.png" width=370 /> |
 
 ---
 
