@@ -223,7 +223,7 @@ location ~ \.php$ {
 - 📧 邮箱：ai@zhiyuantongxin.cn
 - 🌐 官网：http://zhiyuanyunke.zhiyuantongxin.com
 - 💬 微信：zytx-03
-<img src="images/wechat.png" width="300" />
+<img src="images/wechat.jpg" width="300" />
 ---
 
 ## Star History
