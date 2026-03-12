@@ -223,6 +223,7 @@ location ~ \.php$ {
 - 📧 邮箱：ai@zhiyuantongxin.cn
 - 🌐 官网：http://zhiyuanyunke.zhiyuantongxin.com
 - 💬 微信：zytx-03
+- 📝公众号：【智远云客】【智远云客AI系统】
 <img src="images/wechat.jpg" width="300" />
 ---
 
